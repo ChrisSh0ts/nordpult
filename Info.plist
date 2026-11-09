@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleIdentifier</key><string>com.nordpult</string>
+  <key>CFBundleName</key><string>Nordpult</string>
+  <key>NSCalendarsFullAccessUsageDescription</key>
+  <string>Nordpult zeigt deine nächsten Termine auf dem iPad.</string>
+  <key>NSCalendarsUsageDescription</key>
+  <string>Nordpult zeigt deine nächsten Termine auf dem iPad.</string>
+  <key>NSRemindersFullAccessUsageDescription</key>
+  <string>Nordpult zeigt deine Erinnerungen auf dem iPad und hakt sie dort ab.</string>
+  <key>NSRemindersUsageDescription</key>
+  <string>Nordpult zeigt deine Erinnerungen auf dem iPad und hakt sie dort ab.</string>
+  <key>NSAppleEventsUsageDescription</key>
+  <string>Nordpult steuert Musik und zeigt markierte Mails auf dem iPad.</string>
+</dict>
+</plist>
